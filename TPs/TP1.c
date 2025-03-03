@@ -39,6 +39,9 @@ int main(){
     
 
     // 3. change password
+    printf("\nEnter the username to change the password: ");
+    scanf("%s", user_name);
+
     int found = 0; 
     for (i = 0; i < N; i++) {
         if(strcmp(user_name, s[i].username) == 0) {
