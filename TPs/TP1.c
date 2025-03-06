@@ -14,7 +14,7 @@ struct Student {
 int main(){
     struct Student s[MAX];
     int N, i;
-    char user_name[30], new_psw[30];
+    char user_name[30];
     // read a list of students
     printf("Entre the number of students: ");
     scanf("%d", &N);
@@ -51,3 +51,5 @@ int main(){
 
     return 0;
 }
+
+
