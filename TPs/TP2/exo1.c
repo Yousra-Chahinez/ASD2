@@ -15,7 +15,6 @@ float absolute_value(float n){
     return n;
 }
 
-
 int factorial(int n){
     int i, f;
     f = 1;
@@ -24,7 +23,6 @@ int factorial(int n){
     }
     return f;  
 }
-
 
 int main() {
     int x, y, z;
@@ -47,3 +45,4 @@ int main() {
     printf("Factorial of %d is %d\n", N, factorial(N));
     return 0;
 }
+
