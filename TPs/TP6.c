@@ -39,26 +39,17 @@ int main(){
     
 
     // 3. change password
-    printf("\nEnter the username to change the password: ");
     scanf("%s", user_name);
-
-    int found = 0; 
-    for (i = 0; i < N; i++) {
-        if(strcmp(user_name, s[i].username) == 0) {
-            printf("Enter new password: ");
-            scanf("%s", s[i].password);
-            found = 1; 
-            break;  // No need to check further
+    for (i = 0; i < N; i++)
+    {
+        if(strcmp(user_name, s[i].username) == 1){
+            scanf("%s", &s[i].password);
         }
     }
-    if (!found) {
-        printf("Username not found!\n");
-}
     
+
+
     return 0;
 }
-<<<<<<< HEAD
 
 
-=======
->>>>>>> d9e7252eee3b19dc1c3685bee3feee30f7247d84
