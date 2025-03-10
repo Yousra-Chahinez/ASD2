@@ -9,4 +9,7 @@
 ### C Programming Exercises, Practice, Solution 
 [Exercises](https://www.w3resource.com/c-programming-exercises/function/index.php#google_vignette)
 
+### Recursive Functions
+[Tutorial3](https://www.youtube.com/watch?v=ggk7HbcnLG8)
+
 
