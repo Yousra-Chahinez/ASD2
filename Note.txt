@@ -6,9 +6,18 @@ write(variableName)
 For example, to display the value of the variable A:
 write(A) will display the value of A.
 write("A") will print the letter 'A', not its value.
-------------------------------------------------------------
 To display a message along with the value of a variable:
 write("The value of A is ", A) will display the message "The value of A is" followed by the value of A.
+
+------------------------------------------------------------
+
 In C, using printf, the syntax is similar:
 To display the value of A:
 printf("%d", A);
+This will print the value of the variable A.
+To display the text "A" literally:
+printf("A");
+This will print the letter 'A', not its value.
+To display a message and the value of A together:
+printf("The value of A is %d", A);
+This will print the message "The value of A is" followed by the value of A.
