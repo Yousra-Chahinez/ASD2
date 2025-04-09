@@ -1,6 +1,6 @@
 # Learning Resources 
 
-## Session2: Understanding Functions in C
+## Functions in C
 
 ### 📺 Introduction to Functions in C
 [Tutorial1](https://www.youtube.com/watch?v=3lqgdqoY83o) </br>
@@ -12,5 +12,8 @@
 ### Recursive Functions
 [Tutorial3](https://www.youtube.com/watch?v=ggk7HbcnLG8) </br>
 [Tutorial4](https://www.youtube.com/watch?v=STWnc6ZY2fw)
+
+## Pointers
+[C pointers]([https://www.youtube.com/watch?v=3lqgdqoY83o](https://www.youtube.com/watch?v=DplxIq0mc_Y)) </br>
 
 
