@@ -14,6 +14,6 @@
 [Tutorial4](https://www.youtube.com/watch?v=STWnc6ZY2fw)
 
 ## Pointers
-[C pointers]([https://www.youtube.com/watch?v=3lqgdqoY83o](https://www.youtube.com/watch?v=DplxIq0mc_Y)) </br>
+[C Pointers]([https://www.youtube.com/watch?v=3lqgdqoY83o](https://www.youtube.com/watch?v=DplxIq0mc_Y) </br>
 
 
