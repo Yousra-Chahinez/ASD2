@@ -13,6 +13,12 @@
 [Tutorial3](https://www.youtube.com/watch?v=ggk7HbcnLG8) </br>
 [Tutorial4](https://www.youtube.com/watch?v=STWnc6ZY2fw)
 
+#### Exercices
+[Exercise01 | How To "Return" More Than One Value From A Function ](https://www.youtube.com/watch?v=R8IogBSLXV0) </br>
+[Exercise02 | Returning multiple values from a function](https://www.youtube.com/watch?v=NPgVytR02nk) </br>
+
+
+
 ## Pointers & Dynamic Arrays
 [C Pointers](https://www.youtube.com/watch?v=DplxIq0mc_Y) </br>
 [Basics of Dynamic Memory Allocation](https://www.youtube.com/watch?v=udfbq4M2Kfc) </br>
