@@ -24,6 +24,6 @@
 [Basics of Dynamic Memory Allocation](https://www.youtube.com/watch?v=udfbq4M2Kfc) </br>
 [Dynamic Memory Allocation using malloc()](https://www.youtube.com/watch?v=Vch7_YeGKH4) </br>
 
-
-
-
+## Linked Lists
+[Introduction to Linked List](https://www.youtube.com/watch?v=R9PTBwOzceo) </br>
+[Creating the Node of a Single Linked List](https://www.youtube.com/watch?v=DneLxrPmmsw&list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww&index=3) </br>
