@@ -7,7 +7,6 @@ void read_array(int A[], int N){
     {
         scanf("%d", &A[i]);
     }
-    
 }
 
 void compute_avg(int a[], int b[], int M){
@@ -20,7 +19,6 @@ void compute_avg(int a[], int b[], int M){
 
 int main(){
     int N, M, *A, *B;
-
     do
     {
         printf("Enter N (must be positive and divisible by 3): ");
